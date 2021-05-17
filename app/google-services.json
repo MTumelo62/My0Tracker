@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "826842746938",
+    "firebase_url": "https://my-tracker-7f533.firebaseio.com",
+    "project_id": "my-tracker-7f533",
+    "storage_bucket": "my-tracker-7f533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826842746938:android:f824ca4e87df5b639be503",
+        "android_client_info": {
+          "package_name": "co.capenexis.mytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826842746938-5k2lm0grqhuhpbv7651rj3vqehdffj57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrxkWeToxvpYyR_PxyviaO2aT6vUFhNxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826842746938-5k2lm0grqhuhpbv7651rj3vqehdffj57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
